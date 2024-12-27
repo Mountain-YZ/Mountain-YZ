@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 # Welcome to MountainAI
 
-![Profile Views](https://komarev.com/ghpvc/?username=mountain-yz&label=Profile%20views&color=0e75b6&style=flat)
-
 ## About Us
 
 Welcome to MountainAI's official GitHub page! We specialize in cutting-edge artificial intelligence (AI) solutions tailored for businesses, researchers, and developers. Our mission is to innovate, inspire, and deliver practical AI applications that make a difference.
