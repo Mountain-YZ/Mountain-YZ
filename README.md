@@ -59,7 +59,4 @@ Have questions, suggestions, or business inquiries? Reach out to us!
 
 Let’s shape the future of AI together!
 
-![image](https://github.com/user-attachments/assets/a6675ebf-1a07-4beb-b7d2-8e8dd308a31c)
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mountain-yz&label=Profile%20views&color=0e75b6&style=flat" alt="mountain-yz" /> </p>
