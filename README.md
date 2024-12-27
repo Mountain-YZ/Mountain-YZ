@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+https://www.mountainyapayzeka.com.tr/
+
+![image](https://github.com/user-attachments/assets/a6675ebf-1a07-4beb-b7d2-8e8dd308a31c)
