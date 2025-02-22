@@ -23,7 +23,7 @@ Welcome to MountainAI's official GitHub page! We specialize in cutting-edge arti
 
 Explore our projects, repositories, and tools that showcase the power of AI in action. From machine learning algorithms to deep learning models, we aim to empower individuals and organizations to solve real-world challenges with technology.
 
-Visit our official website for more details: [MountainAI Official Website](https://www.mountainyapayzeka.com.tr/)
+Visit our official website for more details: [MountainAI Official Website](https://www.mountain.com.tr/)
 
 ---
 
